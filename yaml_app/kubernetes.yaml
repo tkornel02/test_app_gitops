@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: tkornel/myapp:v1.0
+        image: tkornel02/myapp:v1.0
         ports:
         - containerPort: 3000
 ---
